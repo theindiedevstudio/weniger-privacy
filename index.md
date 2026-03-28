@@ -50,4 +50,4 @@
   ## Contact
 
   If you have questions about this privacy policy, open an issue at:
-  [github.com/YOUR_USERNAME/weniger-privacy](https://github.com/YOUR_USERNAME/weniger-privacy/issues)
+  [github.com/theindiedevstudio/weniger-privacy](https://github.com/theindiedevstudio/weniger-privacy/issues)
